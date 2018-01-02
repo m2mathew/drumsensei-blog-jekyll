@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## O hai! I’m Michael D. Mathew.
+## O hai! I’m Michael D. Mathew
 
 But most people just call me Mike. I’m a developer/designer & musician based out of the Dallas/Fort Worth area. I like to make pretty things that help people. For the last two years (and counting) I have worked as a software engineer at Call-Em-All in Frisco, TX. I also help organize the [ReactJS Dallas software meetup](https://www.meetup.com/ReactJS-Dallas/). I am a graduate of the (former) code school in Austin, Texas called [The Iron Yard](http://www.theironyard.com/). I’ve had the privilege of working with clients like many high school band programs in Texas to develop websites including North Mesquite HS, Crandall HS, DeSoto HS, Trinity HS, and Midlothian HS.
 
