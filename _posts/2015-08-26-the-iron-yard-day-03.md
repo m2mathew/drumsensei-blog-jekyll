@@ -6,7 +6,7 @@ categories: code
 ---
 ￼Today we had engaging lecture and examples over the specificity of CSS selectors. I definitely do not fully have it down, but it is starting to form in my brain matter.
 
-[image here]
+![laptop-with-stickers](http://res.cloudinary.com/drumsensei/image/upload/v1514954685/2015-08-26_1_lsg15j.jpg)
 
 HyperText Markup Language (a.k.a. HTML) is content. It contains everything that you see on the page that is _stuff_. The containers that hold text, pictures, and links can be made to look prettier by adding Cascading Style Sheets (henceforth dubbed CSS).
 
