@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "The Iron Yard - Day 05"
+title:  "The Iron Yard - Week 1 Friday"
 date:   2015-08-28 22:50:57 -0600
 categories: code
 ---
 
-## Day 05 - SASS part 2
+## SASS part 2
 
 Something learned very early in development or programming is the beautiful phrase "Don't Repeat Yourself" - usually referred to as DRY. Learning about Sass at [The Iron Yard](http://www.theironyard.com), on my own a bit, and at a local Austin meet-up was a great way to work it in to my homework project. The group ATXSass had the great speakers [Abby Larner](http://abbylarner.com/) and [Una Kravets](http://unakravets.com/about.html). This was a fun presentation about the basics of the tool. Also, having gone to this meetup in ATX and several meetups in the my hometown of Dallas (woot!), I can easily say that the tech scene thrives on getting together. There is something magical about finally meeting the people that dance across your Twitter account as pixels... They are really real people, turns out!
 
