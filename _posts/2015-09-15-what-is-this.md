@@ -5,7 +5,7 @@ date:   2015-09-15 21:52:26 -0600
 categories: code
 ---
 
-## JS `this`
+## JS Keyword "this"
 
 Ok, things are about to get confusing. If you are not thinking clearly then go skip this and go read the facebooks or something. Maybe go take a walk.
 
