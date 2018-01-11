@@ -18,3 +18,5 @@ On a practical note, using Photoshop will likely prove to be extremely useful to
 So, here's to many more encounters with this behemoth program. I have a feeling that, like with most deeper computer technology things, it will prove to be a long road to get the most out of it. Perhaps I will even get a high-quality camera and learn to **really** use the program for it's original intent!
 
 ![picture-of-three-cameras-from-dribble](http://res.cloudinary.com/drumsensei/image/upload/v1515645772/foto2_e7hoqj.jpg)
+
+###### Humbly borrowed from [dribbble](https://dribbble.com/)
