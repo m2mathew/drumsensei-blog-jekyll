@@ -13,7 +13,7 @@ From near the beginning, we learned vanilla JavaScript in node in the terminal (
 
 ![backbone-logo-on-a-book](http://res.cloudinary.com/drumsensei/image/upload/v1515646799/backbone_1x_k1nidw.png)
 
-###### Humbly borrowed from [Kevin Ports on dribbble](https://dribbble.com/shots/1475794-Dribble-47)
+##### Humbly borrowed from [Kevin Ports on dribbble](https://dribbble.com/shots/1475794-Dribble-47)
 
 Backbone is a library that is written in JavaScript and also incorporates jQuery and Underscore. This particular library uses the MVC architectural pattern that stands for Model-View-Controller, some of the main ingredients that make this approach attractive to many. I certainly have a freshman-level view of these concepts, but I can already see the appeal of having the page updated in a dynamic way. The main basic idea of the Backbone (or another MVC framework) approach is to have the internal use of data separated from the user's computer. Backbone code will be set up to listen for changes to the website and then will interact with the server behind the scenes to initiate and carry out those changes.
 

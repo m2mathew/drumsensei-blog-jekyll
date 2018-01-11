@@ -19,4 +19,4 @@ So, here's to many more encounters with this behemoth program. I have a feeling 
 
 ![picture-of-three-cameras-from-dribble](http://res.cloudinary.com/drumsensei/image/upload/v1515645772/foto2_e7hoqj.jpg)
 
-###### Humbly borrowed from [dribbble](https://dribbble.com/)
+##### Humbly borrowed from [dribbble](https://dribbble.com/)
