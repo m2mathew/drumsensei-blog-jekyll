@@ -3,6 +3,7 @@ layout: post
 title:  "Meetup Notes - Designing a Web App"
 date:   2015-09-16 22:30:26 -0600
 categories: meetup
+permalink: /:title
 ---
 
 ## Design Meetup @ The Iron Yard-Austin

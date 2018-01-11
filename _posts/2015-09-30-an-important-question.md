@@ -3,6 +3,7 @@ layout: post
 title:  "An Important Question"
 date:   2015-09-30 07:44:14 -0600
 categories: motivation
+permalink: /:title
 ---
 
 ## A former student asks an important question

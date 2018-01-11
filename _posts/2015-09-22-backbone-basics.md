@@ -3,6 +3,7 @@ layout: post
 title:  "Backbone Basics"
 date:   2015-09-22 20:32:26 -0600
 categories: code
+permalink: /:title
 ---
 
 ## Backbone makes it easier

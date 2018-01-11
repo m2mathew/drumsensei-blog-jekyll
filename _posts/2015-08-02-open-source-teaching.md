@@ -3,7 +3,9 @@ layout: post
 title:  "Open Source Teaching"
 date:   2015-08-02 16:21:32 -0600
 categories: teaching
+permalink: /:title
 ---
+
 As a teacher of many long years, I really never felt like I was in it by myself. When I would ask for help, then people would generally make time to help.
 
 I remember sitting and having coffee with countless friends and legendary teachers as they shared their incredible insight into teaching other people how to play music.

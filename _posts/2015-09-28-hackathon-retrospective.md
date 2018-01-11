@@ -3,6 +3,7 @@ layout: post
 title:  "Hackathon Retrospective"
 date:   2015-09-28 09:49:21 -0600
 categories: code
+permalink: /:title
 ---
 
 ## Real-world kinda stuff right here
