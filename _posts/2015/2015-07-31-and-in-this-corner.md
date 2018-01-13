@@ -3,7 +3,7 @@ layout: post
 title:  "And In This Corner..."
 date:   2015-07-31 12:00:15 -0600
 categories: coding
-permalink: /:title
+permalink: /:year/:title
 ---
 I am Mike Mathew, and you have stumbled into my corner of the interwebs. Welcome!
 

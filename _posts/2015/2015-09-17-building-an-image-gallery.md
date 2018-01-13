@@ -3,7 +3,7 @@ layout: post
 title:  "Building an Image Gallery"
 date:   2015-09-17 18:20:23 -0600
 categories: jquery
-permalink: /:title
+permalink: /:year/:title
 ---
 
 ## Building a gallery for images posted from users

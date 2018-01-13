@@ -3,7 +3,7 @@ layout: post
 title:  "The Iron Yard - Week 1 Review"
 date:   2015-08-29 11:35:11 -0600
 categories: code
-permalink: /:title
+permalink: /:year/:title
 ---
 
 Week 1 is finished! We made it through! We have sixteen Front-Enders in our class, and we have covered a lot of ground during the first week. We have learned how to use HTML, CSS, Sass, git, and the command line. We have made several layouts and reproduced two websites on our own. Very enlightening!

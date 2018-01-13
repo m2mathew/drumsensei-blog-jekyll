@@ -3,7 +3,7 @@ layout: post
 title:  "Relearning Problem Solving"
 date:   2015-10-16 07:39:46 -0600
 categories: code education
-permalink: /:title
+permalink: /:year/:title
 ---
 
 ## or Remembering how to learn

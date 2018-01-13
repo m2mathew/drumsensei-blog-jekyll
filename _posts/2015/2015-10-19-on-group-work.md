@@ -3,7 +3,7 @@ layout: post
 title:  "On Group Work"
 date:   2015-10-19 21:02:47 -0600
 categories: code teamwork
-permalink: /:year:title
+permalink: /:year/:title
 ---
 
 ## or Avoiding Merge Conflicts in Version Control

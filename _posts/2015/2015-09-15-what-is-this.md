@@ -3,7 +3,7 @@ layout: post
 title:  "What Is This?"
 date:   2015-09-15 21:52:26 -0600
 categories: code
-permalink: /:title
+permalink: /:year/:title
 ---
 
 ## JS Keyword "this"

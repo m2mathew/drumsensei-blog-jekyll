@@ -3,7 +3,7 @@ layout: post
 title:  "The Iron Yard - Week 1 Friday"
 date:   2015-08-28 22:50:57 -0600
 categories: code
-permalink: /:title
+permalink: /:year/:title
 ---
 
 ## SASS part 2
