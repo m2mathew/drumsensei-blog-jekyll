@@ -24,7 +24,7 @@ My brother, the iPhone 6's new owner, complains that the phone is really perform
 
 ##### My brother Stephen and I in New York City at the Top of the Rock, May 2015
 
-Every year a new iPhone comes out and people clutch their pearls and blame Apple for purposefully ruining their iPhone with a new software update. As if Apple has some Trojan horse that they roll into the phone and go all Montgomery Burns while twirling their moustache waiting for the older phones to finally die.
+Every year a new iPhone comes out. Almost like clockwork people clutch their pearls and blame Apple for purposefully ruining their older model iPhone with a new software update. As if Apple has some Trojan horse that they roll into the phone and go all Montgomery Burns while twirling their moustache waiting for the older phones to finally die.
 
 ![mr-burns-evil](http://res.cloudinary.com/drumsensei/image/upload/v1516157605/mr-burns-evil_hle0y4.gif)
 
@@ -34,4 +34,4 @@ No, what the company is doing is prolonging the life of the older phones out in 
 
 Now..Apple DID blow the messaging of all of this. I have no idea why they didn't come out and say something like, "We have found a way to prolong older iPhones that have a dwindling battery life." Something like a Public Relations message in this fashion combined with a message in the phone would go a long way to help this out. What we can never know is how many people would also lose their minds if Apple took this approach. It is a classic "damned if they do, dammed if they don't" scenario. No matter how you slice it, they took action and made something happen.
 
-As a consequence, they are offering to replace older batteries for $29 now. That's a steal. Go replace your batteries and make your phones last even longer!
+As a consequence, they are offering to replace older batteries for $29 now. That's a steal. Go replace your batteries and make your phones last even longer.
