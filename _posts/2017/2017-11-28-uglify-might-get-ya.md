@@ -27,7 +27,7 @@ We use handy webpack plug-ins that do tasks like:
 
 ![nyan-cat-by-Ola-Tandstand-from-dribbble.com](http://res.cloudinary.com/drumsensei/image/upload/v1517119656/catdribblegif2_bbmyfe.gif)
 
-##### Nyan Cat by Ola Tandstand from dribbble.com
+##### Nyan Cat by Ola Tandstand from [dribbble.com](https://dribbble.com)
 
 Maybe our most important plug-in reduces the size of our bundle.js file—the single JavaScript file sent to the client that makes the app run. This plug-in will ["minify" or "uglify"](https://davidwalsh.name/compress-uglify) our app. Here's a real-world example of why this will be important. About a year ago I was fiddling with some code and accidentally un-applied the uglify process our our production code. I went to check out why the production app was taking **so long** to load. Turns out, the JavaScript bundle.js file that we were shipping in production was over 15MB! That's HUGE! When we corrected the error, it went back down to its normal size of about 400KB. If you are unsure about those MB and KB numbers think about it like this. Our development JavaScript file was over 15,000,000 bytes, but the production JavaScript file that we ship to customers is only 400,000 bytes. Since that time we have made even better progress to keep the size small while the app continues to grow.
 
@@ -43,10 +43,30 @@ When we uglify the code, we might get something similar to this (but with even l
 
 If you multiply this reduction in character size across 1,000 functions, you can imagine why this is an important process to add to any production-facing application.
 
-Now, the issue we faced was pretty funny and certainly a product of our own doing. When we are sending requests for data from our app, there is a process to handle both a successful request or an error. According to the error, we display a helpful message to the user to let them know something fairly specific about what happened. For instance, you spin up the app, and your account information never gets loaded. In that circumstance one of several different types of errors might have occurred. We don't just say `"There was an error"`. We try to provide something more concrete like `"We were unable to load your account information"`.
+Now, the issue we faced was pretty funny and certainly a product of our own doing. When we are sending requests for data from our app, there is a process to handle both a successful request or an error. According to the error, we display a helpful message to the user to let them know something fairly specific about what happened.
 
-In the case of a credit card transaction, there are MANY different possible errors that occur from an invalid CVN to an
+For instance, you spin up the app, and your account information never gets loaded. In that circumstance one of several different types of errors might have occurred. We don't just say `"There was an error"`. We try to provide something more concrete like `"We were unable to load your account information"`.
 
-`HttpError.error`
+In the case of a credit card transaction, there are MANY different possible errors that occur: invalid CVN, invalid Postal Code, et al. We handle those specific types of errors by constructing a new object and labeling it with the new **name** "HttpError". When we checked for this error to display a specific credit card error message on our local machines everything worked great! We shipped it to a production test environment, and it always failed…not just wrong error, but entire app crashes and burns.
 
-// Where is the rest of this post?
+
+![crash-bandicoot](http://res.cloudinary.com/drumsensei/image/upload/v1517121162/crash-bandicoot-dribbble_kn2q8z.jpg)
+
+##### Oops—wrong kind of crash
+##### Credit: "Bandicoot" by [Lic Pollito from dribbble.com](https://dribbble.com/licpollito)
+
+Turns out, our newly constructed HttpError object was renamed to `r` in production. We kept seeing the error `"r.isCcError" is undefined`. After several moments of panic, we realized that webpack's extremely useful plug-in was crashing our app by renaming our HttpError object to one simply called `r`.
+
+So, this little line of code:
+
+![throw-error-code-v1](http://res.cloudinary.com/drumsensei/image/upload/v1517121169/uglify-code-3_pvh30c.jpg)
+
+Became this line of code:
+
+![throw-error-code-v2-and-final](http://res.cloudinary.com/drumsensei/image/upload/v1517121172/uglify-code-4_jekmpw.jpg)
+
+And we lived happily ever after.
+
+![dancing-nutella](http://res.cloudinary.com/drumsensei/image/upload/v1517121179/dancing_nutella_ejrihe.gif)
+
+Webpack and its surrounding orbit of tools makes modern app development very efficient and better for developers/users. BUT, one must be ever steadfast in understanding the "in"s and "out"s and "what-have-you"s of the what the tool is doing behind the scenes.
