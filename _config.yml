@@ -19,14 +19,38 @@ description: >- # this means to ignore newlines until "baseurl:"
   Betwixt music and code
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: drumsensei
-github_username:  m2mathew
+# twitter_username: drumsensei
+# github_username:  m2mathew
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Contact
+   url: /contact
+
+# Social
+social:
+   github: m2mathew
+   twitter: drumsensei
+   facebook: m2mathew
+   email: mike@drumsensei.com
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-avatar
+  - jekyll-paginate
+
+# The theme we will use
+remote_theme: brianmaierjr/long-haul
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -39,3 +63,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# google_analytics: "UA-58263416-1"
