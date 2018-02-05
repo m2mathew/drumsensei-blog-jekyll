@@ -6,8 +6,6 @@ categories: web
 permalink: /:year/:title
 ---
 
-(4 min read)
-
 How do you consume internet websites these days? Is it through a web browser or possibly a native app? A literal ton of people are only using Facebook to see the internet. (As an aside, you likely have more than one family member who doesn't even know that Facebook is ON the internet. sigh…)
 
 As part of my gig at [Call-Em-All](https://www.call-em-all.com), I have been working with different web browsers to get everything working for all the peoples. Sadly, they differ vastly in terms of both a normal user experience and a developer experience. I have not used them all extensively, but I have thoughts on most of them.

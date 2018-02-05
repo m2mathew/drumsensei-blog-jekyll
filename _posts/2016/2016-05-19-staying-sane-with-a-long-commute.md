@@ -6,7 +6,7 @@ categories: work
 permalink: /:year/:title
 ---
 
-## or Podcasts! (2 min read)
+## or Podcasts!
 
 Before I get too far in, please understand how Dallas works. Everyone drives because we mostly live outside of the city proper. There is a big movement to live downtown and use public transit, but I am one the stooges who has lived in the 'burbs for my entire life.
 

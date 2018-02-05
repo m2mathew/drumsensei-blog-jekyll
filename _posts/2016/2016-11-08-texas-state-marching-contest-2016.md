@@ -6,8 +6,6 @@ categories: band
 permalink: /:year/:title
 ---
 
-(3 min read)
-
 Some random thoughts while watching the live cast of the 2016 Texas State Marching Contest. I surely will not be commenting on each of the 40 (!) bands in the prelims of this contest, but I will catch many of them.
 
 Before I comment on bands…there appears to be some kind of valve machine in the bottom view of the live cast camera. Is the Alamodome all steampunk now?

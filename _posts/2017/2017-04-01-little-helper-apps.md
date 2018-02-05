@@ -6,8 +6,6 @@ categories: apps
 permalink: /:year/:title
 ---
 
-(3 min read)
-
 My wife was recently telling me that she likes using the "little thingy" to change the size of the app running on her laptop. After a short conversation about the app, I started thinking that I use several "little thingy" apps on my Mac to help stay organized and quickly do some tasks. These apps save me a lot of time and help me
 
 ![mr-burns-excellent](http://res.cloudinary.com/drumsensei/image/upload/v1516025293/mr-burns-excellent_oaixhf.gif)

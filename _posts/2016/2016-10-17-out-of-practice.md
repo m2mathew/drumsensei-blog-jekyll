@@ -6,8 +6,6 @@ categories: work code
 permalink: /:year/:title
 ---
 
-(3 min read)
-
 I have noticed a funny thing as of late. In music-making and writing I am out of practice. This is a cautionary tale of awareness and a possible solution to being out of practice.
 
 ![on-purpose](http://res.cloudinary.com/drumsensei/image/upload/v1516023791/on-purpose_reai7l.png)

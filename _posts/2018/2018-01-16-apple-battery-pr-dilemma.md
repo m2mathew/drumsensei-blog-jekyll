@@ -6,8 +6,6 @@ categories: apple
 permalink: /:year/:title
 ---
 
-(4 min read)
-
 Recently Apple, Inc. has been in the headlines due to an on-purpose software modification. This highly-publicized battery story limits the amount of work that the phone's processor will do...but only when the battery has reached a shortened lifespan. Forcing the phone into this modified state is how Apple is avoiding the problem that many people were facing: a phone that suddenly shut off under heavy load. The solution is smart and a great way to keep customers happy.
 
 ![apple-logo-on-gradient-background](http://res.cloudinary.com/drumsensei/image/upload/v1516157690/AppleTV-esque_by-mikelcroft_2560_iaftq4.jpg)

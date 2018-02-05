@@ -6,8 +6,6 @@ categories: education
 permalink: /:year/:title
 ---
 
-(2 min read)
-
 I used to teach music full-time. It was my identity and provided a way for my skills and personality to be useful to others. Teaching music provides a ton of adventure and busy-ness, and I prefer staying busy. I also love to perform music, either in the practice room or on a stage. Teaching provided me a way to play music and hear music constantly for many years. Connecting students with a passion for music and learning remains important to me and to our society.
 
 When I decided to jump ship from the band director world, I fully knew that I would be "out of the loop," and I was okay with that. No longer would I instantly know the interconnected news of the band world like "so and so left that one school and is going to that other school next year." Since I would be less visible (or maybe even, gasp, _forgotten_), then my teacher friends would tend to reach out to the other people that were still "in the game" if they needed some help for percussion.

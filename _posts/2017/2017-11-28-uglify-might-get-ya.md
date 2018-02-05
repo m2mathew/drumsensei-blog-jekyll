@@ -6,8 +6,6 @@ categories: code
 permalink: /:year/:title
 ---
 
-(3 min read)
-
 I still code almost every day. [My GitHub commits](https://github.com/m2mathew) don't tell the whole story, but I have taken _very_ few days off this year. Most of my work is in private repositories, but I have a few "learning" projects out there, too. Not burned out at all; definitely working hard and learning lots every day, every week!
 
 ![mike's-commit-chart-from-the-past-year](http://res.cloudinary.com/drumsensei/image/upload/v1517119461/github-commits-2017_i7zxep.png)
